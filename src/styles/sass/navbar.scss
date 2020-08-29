@@ -1,0 +1,9 @@
+.nav {
+    display: flexbox;
+    background-color: red;
+    width: 100%;
+    ul{
+        display: inline-flex;
+        padding-left: 4rem;
+    }
+}
